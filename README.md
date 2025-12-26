@@ -1,1 +1,0 @@
-# yalamanel.github.io
