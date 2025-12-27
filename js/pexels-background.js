@@ -49,7 +49,7 @@ class PexelsBackground {
         
         // Fallback queries if not configured
         return [ 
-    "nebula nasa pictures",
+    "nebula","milky way",
   ];
     }
 
