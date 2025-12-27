@@ -48,7 +48,9 @@ class PexelsBackground {
         // }
         
         // Fallback queries if not configured
-        return [ "nebula pictures", "starry night" ];
+        return ["universe solar systems nasa pictures", "Dark Green Nature",
+    "nebula nasa pictures",
+  ];
     }
 
     async init() {
